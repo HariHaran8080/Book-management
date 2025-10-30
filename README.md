@@ -44,26 +44,25 @@ book-api/
 ---
 ⚙️ Setup Instructions
 1️⃣  Clone the repository
-    git clone https://github.com/hariharan-bookapi/book-management-api.git
-    cd book-management-api
+git clone https://github.com/hariharan-bookapi/book-management-api.git
+cd book-management-api
 
 2️⃣ Install dependencies
-    npm install
+npm install
 
 3️⃣ Set up environment variables
-    Create a file named .env in the project root and add the following:
-    PORT=3000
-    MONGODB_URI=mongodb://127.0.0.1:27017/bookdb
+ Create a file named .env in the project root and add the following:
+ PORT=3000
+ MONGODB_URI=mongodb://127.0.0.1:27017/bookdb
 
 4️⃣ Start MongoDB
-  Make sure MongoDB is running locally.
-  You can start it using:
-
-  net start MongoDB
-  (If you’re using MongoDB Compass or Docker, ensure the service is active.)
+Make sure MongoDB is running locally.
+You can start it using:
+net start MongoDB
+(If you’re using MongoDB Compass or Docker, ensure the service is active.)
   
 5️⃣ Run the application
-    npm run dev
+npm run dev
 Once the server starts, you should see:
 
 MongoDB connected
