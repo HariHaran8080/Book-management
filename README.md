@@ -132,8 +132,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Hariharan**  
-📧 [hariharan64482@gmail.com]  
-🌐 [https://github.com/hariharan-bookapi](https://github.com/hariharan-bookapi)
+📧 hariharan64482@gmail.com 
+
 
 
 
