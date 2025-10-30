@@ -31,15 +31,16 @@ You can create, read, update, and delete (CRUD) book details through Postman or 
 
 book-api/
 ├── routes/
-│ └── books.routes.js
+│   └── books.routes.js
 ├── models/
-│ └── book.model.js
+│   └── book.model.js
 ├── config/
-│ └── config.js
+│   └── config.js
 ├── .env
 ├── server.js
 ├── package.json
 └── README.md
+
 
 
 ---
