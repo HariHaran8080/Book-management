@@ -31,14 +31,23 @@ You can create, read, update, and delete (CRUD) book details through Postman or 
 
 book-api/
 ├── routes/
+|   |
 │   └── books.routes.js
+|
 ├── models/
+|   |
 │   └── book.model.js
+|
 ├── config/
+|    |
 │   └── config.js
+|
 ├── .env
+|
 ├── server.js
+|
 ├── package.json
+|
 └── README.md
 
 
@@ -50,6 +59,7 @@ book-api/
 ### 1️⃣ Clone the repository
 
 git clone https://github.com/hariharan-bookapi/book-management-api.git
+
 cd book-management-api
 
 ### 2️⃣ Install dependencies
@@ -133,6 +143,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Hariharan**  
+
 📧 hariharan64482@gmail.com 
 
 
